@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="zen-eco-thinking" width="880"></p>
+
 # Zen Eco 4B Thinking
 
 Chain-of-thought reasoning model. Part of the Zen Eco family.
